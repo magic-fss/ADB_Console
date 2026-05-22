@@ -1,0 +1,15 @@
+# ADB Enterprise Utility Pro — 依赖说明
+# ==============================================================================
+# 本工具基于 Python 3.8+ 标准库构建，零第三方 Python 依赖。
+# 唯一外部依赖：Android SDK Platform-Tools（adb 必须位于系统 PATH）。
+# ==============================================================================
+
+
+# 若未安装，请从以下地址获取对应系统版本：
+#   https://developer.android.google.cn/tools/releases/platform-tools?hl=zh-cn
+# 或者使用本项目提供的platform-tools-latest-windows.zip
+# 解压后请将 platform-tools 目录加入系统 PATH，并重启终端。
+#
+# 验证 adb 是否可用，在cmd窗口输入：
+#   adb version
+# 能看见版本信息就说明成功了
