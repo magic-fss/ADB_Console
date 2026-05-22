@@ -2,7 +2,7 @@
 
 **版本**: v2.0.0  
 **日期**: 2026-05-22  
-**作者**: Magic 
+**作者**: Magic
 **适用环境**: Python 3.8+ | Windows / Linux / macOS
 
 ---
