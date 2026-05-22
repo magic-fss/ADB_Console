@@ -11,6 +11,8 @@
 
 ADB Enterprise Utility Pro 是一款面向 Android 运维与测试场景的企业级终端工具。基于纯 Python 标准库开发，零第三方依赖，提供设备管理、应用生命周期管理、文件传输、屏幕媒体、输入模拟、系统信息监控、日志调试、端口转发等 12 大功能模块，支持 USB 与网络 ADB 双模式。
 
+项目菜单页面：
+<img width="1430" height="1114" alt="image" src="https://github.com/user-attachments/assets/db57cfba-75a6-4177-a5fc-17b70905c956" />
 ---
 
 ## 二、环境要求
